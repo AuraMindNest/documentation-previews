@@ -1,0 +1,17 @@
+{
+  "name": "documentation-previews-handler",
+  "version": "1.0.0",
+  "description": "Handler for GitHub Documentation Preview System",
+  "main": "handler.js",
+  "scripts": {
+    "test": "echo \"No tests specified\" && exit 0"
+  },
+  "keywords": [
+    "github",
+    "documentation",
+    "preview"
+  ],
+  "author": "",
+  "license": "MIT"
+}
+

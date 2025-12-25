@@ -28,9 +28,17 @@ Previews are served via GitHub Pages at:
 
 ## Supported Formats
 
-- Markdown (`.md`, `.markdown`)
-- Asciidoc (`.adoc`, `.asciidoc`)
-- Quickbook (`.qb`, `.qbk`)
+The system supports the following documentation formats, which are automatically converted to HTML:
+
+- **Markdown**: `.md`, `.markdown`
+- **AsciiDoc**: `.adoc`, `.asciidoc`
+- **Quickbook**: `.qbk`, `.qb`, `.qubic`
+- **reStructuredText**: `.rst`
+- **DocBook XML**: `.xml`
+- **HTML**: `.html`, `.htm`
+- **MathML**: `.mml`
+
+All formats are converted to HTML and served via GitHub Pages for preview.
 
 ## Automatic Management
 

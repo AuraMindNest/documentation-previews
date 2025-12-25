@@ -1,0 +1,15 @@
+{
+  "monitoredRepositories": [
+    "Documentation-repository-01",
+    "Documentation-repository-02"
+  ],
+  "previewRepository": {
+    "owner": "AuraMindNest",
+    "name": "documentation-previews"
+  },
+  "githubApp": {
+    "appId": "2527381",
+    "installationId": "100955538"
+  }
+}
+
